@@ -1,0 +1,125 @@
+.container .bar{
+    display: flex;
+    border: 2px solid black;
+    align-items: center ;
+    width: 45%;
+    height: 50%;
+    margin-top: 50px;
+    margin-left: 80px;
+   
+   }
+   .name .heading{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 50px;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 80px;
+   }
+   .position .filed{
+    font-family: "QuickSand",serif;
+    font-size: 25px;
+    margin-left: 80px;
+    color: green;
+   }
+   .address .one{
+    font-family: "Bitter", serif;
+    font-weight: 450;
+    font-size: 22px;
+    margin-left: 80px;
+   }
+   .skill .two{
+    font-family: "QuickSand",serif;
+    font-size: 25px;
+    margin-top: 45px;
+    margin-left: 80px;
+    color: green;
+   }
+   .three{
+    display: flex;
+    font-family: "Bitter",serif;
+    font-weight: 450;
+    justify-content: space-between;
+    font-size: 22px;
+    margin-left: 80px;
+   }
+   .education .four{
+    font-family: "QuickSand",serif;
+    font-size: 27px;
+    margin-top: 45px;
+    margin-left: 80px;
+    color:green;
+   }
+   .five .small{
+    font-size: 25px;
+    font-family: "QuickSand",system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10px;
+    margin-left:80px ;
+    color:rgb(3, 177, 252);
+   }
+   .quality{
+    font-size: 25px;
+    font-family:  "Bitter",serif;
+    margin-left: 80px;
+   }
+   .experi .seven{
+    margin-top: 55px;
+    font-family: "QuickSand",serif;
+    font-size: 30px;
+    margin-left: 80px;
+    color:green;
+
+   }
+   .title .job{
+    font-family: "QuickSand",system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:25px;
+    margin-left: 80px;
+    color:rgb(3, 177, 252);
+ 
+   }
+   .title .eight{
+    font-size:25px;
+    font-family:  "Bitter",serif;
+    margin-left: 80px;
+
+   }
+   .nine{
+    font-size: 25px;
+    font-family:"Bitter",serif ;
+    margin-left: 65px;
+   }
+   .nine ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   }
+   .ten{
+    font-size: 25px;
+    font-family:"Bitter",serif ;
+    margin-left: 80px;
+   }
+   .eleven .twevele{
+    font-size: 30px;
+    margin-top:45px ;
+    margin-left: 80px;
+    font-family: "QuickSand",serif;
+    color: green;
+   }
+   .icon{
+    margin-left: 80px;
+    display: flex;
+    gap:10px;
+   }
+   .icon i{
+    font-size:25px;
+   }
+.icon a {
+    font-size: 18px; 
+    text-decoration: none;
+    color: #0077b5;
+}
+.icon a[href*="github.com"]:hover {
+    color: #000; 
+}
+.icon a[href*="linkedin.com"]:hover {
+    color: #000; 
+}
